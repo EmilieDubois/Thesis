@@ -1,0 +1,14 @@
+git add .
+git commit -m "boodschap"
+git push origin master
+
+
+terug gaan:
+git status -> hash vinden van commit waarnaar je terug wil
+git checkout *hash*
+
+
+
+op nieuwe pc:
+git init
+git clone https://github.com/EmilieDubois/Thesis
